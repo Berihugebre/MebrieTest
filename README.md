@@ -23,3 +23,8 @@ My Name is Mebrahtom and I like going to church every sunday!.
 This Exteranl Link [Berihu website](Https://berihu.be)
 
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
